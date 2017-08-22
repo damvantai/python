@@ -1,0 +1,4 @@
+{
+  "test_assert1.py::test_function": true,
+  "test_foocompare.py::test_compare": true
+}
