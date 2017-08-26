@@ -53,3 +53,11 @@ b = torch.from_numpy(a)
 np.add(a, 1, out=a)
 print(a)
 print(b)
+
+
+# CUDA Tensors
+print("CUDA Tensors")
+if torch.cuda.is_available():
+	x = x.cuda()
+	y = y.cuda()
+	x + y
