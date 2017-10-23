@@ -1,0 +1,33 @@
+Artificial intelligence can accurately guess whether people are gay or straight based on photos of their faces, according to new research suggesting that machines can have significantly better “gaydar” than humans.
+
+The study from Stanford University – which found that a computer algorithm could correctly distinguish between gay and straight men 81% of the time, and 74% for women – has raised questions about the biological origins of sexual orientation, the ethics of facial-detection technology and the potential for this kind of software to violate people’s privacy or be abused for anti-LGBT purposes.
+
+The machine intelligence tested in the research, which was published in the Journal of Personality and Social Psychology and first reported in the Economist, was based on a sample of more than 35,000 facial images that men and women publicly posted on a US dating website. The researchers, Michal Kosinski and Yilun Wang, extracted features from the images using “deep neural networks”, meaning a sophisticated mathematical system that learns to analyze visuals based on a large dataset.
+
+The research found that gay men and women tended to have “gender-atypical” features, expressions and “grooming styles”, essentially meaning gay men appeared more feminine and vice versa. The data also identified certain trends, including that gay men had narrower jaws, longer noses and larger foreheads than straight men, and that gay women had larger jaws and smaller foreheads compared to straight women.
+
+Human judges performed much worse than the algorithm, accurately identifying orientation only 61% of the time for men and 54% for women. When the software reviewed five images per person, it was even more successful – 91% of the time with men and 83% with women. Broadly, that means “faces contain much more information about sexual orientation than can be perceived and interpreted by the human brain”, the authors wrote.
+
+The paper suggested that the findings provide “strong support” for the theory that sexual orientation stems from exposure to certain hormones before birth, meaning people are born gay and being queer is not a choice. The machine’s lower success rate for women also could support the notion that female sexual orientation is more fluid.
+
+While the findings have clear limits when it comes to gender and sexuality – people of color were not included in the study, and there was no consideration of transgender or bisexual people – the implications for artificial intelligence (AI) are vast and alarming. With billions of facial images of people stored on social media sites and in government databases, the researchers suggested that public data could be used to detect people’s sexual orientation without their consent.
+
+It’s easy to imagine spouses using the technology on partners they suspect are closeted, or teenagers using the algorithm on themselves or their peers. More frighteningly, governments that continue to prosecute LGBT people could hypothetically use the technology to out and target populations. That means building this kind of software and publicizing it is itself controversial given concerns that it could encourage harmful applications.
+
+But the authors argued that the technology already exists, and its capabilities are important to expose so that governments and companies can proactively consider privacy risks and the need for safeguards and regulations.
+
+“It’s certainly unsettling. Like any new tool, if it gets into the wrong hands, it can be used for ill purposes,” said Nick Rule, an associate professor of psychology at the University of Toronto, who has published research on the science of gaydar. “If you can start profiling people based on their appearance, then identifying them and doing horrible things to them, that’s really bad.”
+
+Rule argued it was still important to develop and test this technology: “What the authors have done here is to make a very bold statement about how powerful this can be. … Now we know that we need protections.”
+
+Kosinski was not available for an interview, according to a Stanford spokesperson. The professor is known for his work with Cambridge University on psychometric profiling, including using Facebook data to make conclusions about personality. Donald Trump’s campaign and Brexit supporters deployed similar tools to target voters, raising concerns about the expanding use of personal data in elections.
+
+In the Stanford study, the authors also noted that artificial intelligence could be used to explore links between facial features and a range of other phenomena, such as political views, psychological conditions or personality.
+
+This type of research further raises concerns about the potential for scenarios like the science-fiction movie Minority Report, in which people can be arrested based solely on the prediction that they will commit a crime.
+
+“AI can tell you anything about anyone with enough data,” said Brian Brackeen, CEO of Kairos, a face recognition company. “The question is as a society, do we want to know?”
+
+Brackeen, who said the Stanford data on sexual orientation was “startlingly correct”, said there needs to be an increased focus on privacy and tools to prevent the misuse of machine learning as it becomes more widespread and advanced.
+
+Rule speculated about AI being used to actively discriminate against people based on a machine’s interpretation of their faces: “We should all be collectively concerned.”
